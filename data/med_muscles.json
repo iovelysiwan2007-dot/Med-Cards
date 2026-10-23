@@ -1,0 +1,658 @@
+[
+  {
+    "id": "m_001",
+    "name": "Pectoralis Major",
+    "region": "Upper Limb",
+    "subRegion": "Pectoral Region",
+    "origin": [
+      "Clavicular head: Anterior surface of medial half of clavicle",
+      "Sternocostal head: Anterior surface of sternum, superior six costal cartilages, aponeurosis of external oblique"
+    ],
+    "insertion": [
+      "Lateral lip of bicipital groove (intertubercular sulcus) of humerus"
+    ],
+    "innervation": "Lateral and medial pectoral nerves (Clavicular head: C5, C6; Sternocostal head: C7, C8, T1)",
+    "arterialSupply": "Pectoral branch of thoracoacromial trunk, internal thoracic artery",
+    "primaryActions": [
+      "Adduction and medial rotation of humerus at glenohumeral joint",
+      "Clavicular head: Flexes humerus",
+      "Sternocostal head: Extends humerus from flexed position"
+    ],
+    "clinicalRelevance": "Can be harvested for reconstructive surgery (breast reconstruction or facial reanimation). Absence or hypoplasia is a hallmark of Poland syndrome. Used to test spinal levels C5 to T1 during clinical manual muscle testing.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_002",
+    "name": "Deltoid",
+    "region": "Upper Limb",
+    "subRegion": "Shoulder / Scapular Region",
+    "origin": [
+      "Anterior part: Lateral third of clavicle",
+      "Middle part: Acromion process of scapula",
+      "Posterior part: Spine of scapula"
+    ],
+    "insertion": [
+      "Deltoid tuberosity of humerus"
+    ],
+    "innervation": "Axillary nerve (C5, C6)",
+    "arterialSupply": "Posterior circumflex humeral artery, deltoid branch of thoracoacromial artery",
+    "primaryActions": [
+      "Middle part: Principal abductor of humerus (from 15 to 90 degrees)",
+      "Anterior part: Flexion and medial rotation of humerus",
+      "Posterior part: Extension and lateral rotation of humerus"
+    ],
+    "clinicalRelevance": "Common site for intramuscular drug injections. The axillary nerve is highly vulnerable during anterior shoulder dislocation or surgical neck of humerus fractures, leading to deltoid paralysis, atrophy, and loss of arm abduction.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_003",
+    "name": "Biceps Brachii",
+    "region": "Upper Limb",
+    "subRegion": "Anterior Compartment of Arm",
+    "origin": [
+      "Short head: Apex of coracoid process of scapula",
+      "Long head: Supraglenoid tubercle of scapula"
+    ],
+    "insertion": [
+      "Radial tuberosity and bicipital aponeurosis into deep fascia of forearm"
+    ],
+    "innervation": "Musculocutaneous nerve (C5, C6, C7)",
+    "arterialSupply": "Brachial artery, muscular branches",
+    "primaryActions": [
+      "Powerful supinator of forearm (when elbow is flexed)",
+      "Flexor of forearm at elbow joint",
+      "Weak accessory flexor of arm at glenohumeral joint"
+    ],
+    "clinicalRelevance": "Tested clinically using the biceps reflex (C5-C6). Rupture of the long head tendon leads to a distinct bulge in the lower arm known as the 'Popeye deformity'.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_004",
+    "name": "Triceps Brachii",
+    "region": "Upper Limb",
+    "subRegion": "Posterior Compartment of Arm",
+    "origin": [
+      "Long head: Infraglenoid tubercle of scapula",
+      "Lateral head: Posterior surface of humerus, superior to radial groove",
+      "Medial head: Posterior surface of humerus, inferior to radial groove"
+    ],
+    "insertion": [
+      "Olecranon process of ulna"
+    ],
+    "innervation": "Radial nerve (C6, C7, C8, T1)",
+    "arterialSupply": "Deep brachial (profunda brachii) artery",
+    "primaryActions": [
+      "Primary extensor of forearm at elbow joint",
+      "Long head: Resists downward displacement of humeral head during abduction"
+    ],
+    "clinicalRelevance": "Tested clinically via the triceps reflex (C7-C8). Fractures of the olecranon disrupt the extensor mechanism. Radial nerve damage in the axilla (crutch palsy) paralyzes all three heads, while damage in the radial groove usually spares the long head.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_005",
+    "name": "Brachioradialis",
+    "region": "Upper Limb",
+    "subRegion": "Posterior Compartment of Forearm (Lateral Group)",
+    "origin": [
+      "Proximal two-thirds of lateral supracondylar ridge of humerus"
+    ],
+    "insertion": [
+      "Lateral surface of distal end of radius, proximal to styloid process"
+    ],
+    "innervation": "Radial nerve (C5, C6, C7)",
+    "arterialSupply": "Radial recurrent artery",
+    "primaryActions": [
+      "Flexion of forearm at elbow joint when forearm is in mid-prone position"
+    ],
+    "clinicalRelevance": "The only muscle supplied by the radial nerve that acts as a flexor. Evaluated clinically during the supinator/brachioradialis reflex (C5-C6). Landmark for finding the radial artery in the wrist.",
+    "examYield": "Medium",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_006",
+    "name": "Pronator Teres",
+    "region": "Upper Limb",
+    "subRegion": "Anterior Compartment of Forearm (Superficial Group)",
+    "origin": [
+      "Humeral head: Medial epicondyle of humerus (common flexor origin)",
+      "Ulnar head: Coronoid process of ulna"
+    ],
+    "insertion": [
+      "Middle of lateral surface of shaft of radius"
+    ],
+    "innervation": "Median nerve (C6, C7)",
+    "arterialSupply": "Ulnar artery, anterior ulnar recurrent artery",
+    "primaryActions": [
+      "Pronation of forearm",
+      "Weak flexor of elbow joint"
+    ],
+    "clinicalRelevance": "Hypertrophy or repetitive overuse can entrap the median nerve between the humeral and ulnar heads, a clinical condition known as Pronator Teres Syndrome (presenting with paresthesia in the lateral 3.5 digits).",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_007",
+    "name": "Flexor Carpi Radialis",
+    "region": "Upper Limb",
+    "subRegion": "Anterior Compartment of Forearm (Superficial Group)",
+    "origin": [
+      "Medial epicondyle of humerus (common flexor origin)"
+    ],
+    "insertion": [
+      "Base of second metacarpal bone (with a slip to the third)"
+    ],
+    "innervation": "Median nerve (C6, C7)",
+    "arterialSupply": "Radial artery",
+    "primaryActions": [
+      "Flexion of hand at wrist joint",
+      "Abduction (radial deviation) of hand at wrist joint"
+    ],
+    "clinicalRelevance": "Its tendon serves as an essential landmark for finding and palpating the radial pulse. It passes through a separate compartment of the flexor retinaculum, which can be affected in localized tenosynovitis.",
+    "examYield": "Medium",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_008",
+    "name": "Extensor Digitorum",
+    "region": "Upper Limb",
+    "subRegion": "Posterior Compartment of Forearm (Superficial Group)",
+    "origin": [
+      "Lateral epicondyle of humerus (common extensor origin)"
+    ],
+    "insertion": [
+      "Extensor expansions of medial four digits"
+    ],
+    "innervation": "Posterior interosseous nerve (C7, C8; branch of radial nerve)",
+    "arterialSupply": "Posterior interosseous artery, recurrent interosseous artery",
+    "primaryActions": [
+      "Extends medial four digits at metacarpophalangeal and interphalangeal joints",
+      "Assists in hand extension (wrist dorsiflexion)"
+    ],
+    "clinicalRelevance": "Overuse of this muscle and other extensors causes common extensor tendinopathy, popularly known as 'Tennis Elbow' (lateral epicondylitis). Injury to the terminal tendon at the DIP joint results in Mallet Finger.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_009",
+    "name": "Opponens Pollicis",
+    "region": "Upper Limb",
+    "subRegion": "Hand Intrinsics (Thenar Compartment)",
+    "origin": [
+      "Flexor retinaculum and tubercle of trapezium bone"
+    ],
+    "insertion": [
+      "Entire length of lateral border of first metacarpal bone"
+    ],
+    "innervation": "Recurrent branch of median nerve (C8, T1)",
+    "arterialSupply": "Superficial palmar branch of radial artery",
+    "primaryActions": [
+      "Opposes the thumb (flexes, abducts, and medially rotates the first metacarpal at the carpometacarpal joint)"
+    ],
+    "clinicalRelevance": "Opposition is the most crucial hand movement for human grip. Atrophy of thenar muscles occurs in severe Carpal Tunnel Syndrome, leading to 'Ape Hand deformity' where thumb opposition is lost.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_010",
+    "name": "Gluteus Maximus",
+    "region": "Lower Limb",
+    "subRegion": "Gluteal Region",
+    "origin": [
+      "Outer surface of ilium posterior to posterior gluteal line",
+      "Dorsal surface of sacrum and coccyx",
+      "Sacrotuberous ligament"
+    ],
+    "insertion": [
+      "Most fibers insert into the iliotibial tract; deeper fibers insert into the gluteal tuberosity of femur"
+    ],
+    "innervation": "Inferior gluteal nerve (L5, S1, S2)",
+    "arterialSupply": "Superior and inferior gluteal arteries, first perforating branch of profunda femoris",
+    "primaryActions": [
+      "Powerful extensor of thigh at hip joint (essential for climbing stairs, standing up from sitting)",
+      "Lateral rotator of thigh",
+      "Steadies thigh and assists in locking knee joint via iliotibial tract"
+    ],
+    "clinicalRelevance": "Evaluated during gait analysis; weakness leads to 'Gluteus Maximus Lurch' (the trunk is thrown backward during the stance phase to prevent flexion of the hip). Site for deep gluteal IM injections (upper outer quadrant to avoid sciatic nerve).",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_011",
+    "name": "Gluteus Medius",
+    "region": "Lower Limb",
+    "subRegion": "Gluteal Region",
+    "origin": [
+      "Outer surface of ilium between anterior and posterior gluteal lines"
+    ],
+    "insertion": [
+      "Lateral surface of greater trochanter of femur"
+    ],
+    "innervation": "Superior gluteal nerve (L4, L5, S1)",
+    "arterialSupply": "Superior gluteal artery",
+    "primaryActions": [
+      "Abducts thigh at hip joint",
+      "Medially rotates thigh (anterior fibers)",
+      "Steadies pelvis during single-leg stance, preventing the contralateral side of the pelvis from dropping"
+    ],
+    "clinicalRelevance": "Injury to the superior gluteal nerve or gluteus medius results in a positive Trendelenburg test. When the patient stands on the affected leg, the pelvis drops on the opposite (unsupported) side, leading to a Trendelenburg gait ('waddling' gait).",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_012",
+    "name": "Rectus Femoris",
+    "region": "Lower Limb",
+    "subRegion": "Anterior Compartment of Thigh",
+    "origin": [
+      "Straight head: Anterior inferior iliac spine (AIIS)",
+      "Reflected head: Groove superior to acetabulum"
+    ],
+    "insertion": [
+      "Base of patella and, via the patellar ligament, into tibial tuberosity"
+    ],
+    "innervation": "Femoral nerve (L2, L3, L4)",
+    "arterialSupply": "Lateral femoral circumflex artery",
+    "primaryActions": [
+      "Extends leg at knee joint",
+      "Flexes thigh at hip joint (the only quadriceps muscle that crosses both joints)"
+    ],
+    "clinicalRelevance": "Tested clinically during the patellar reflex (Knee Jerk, L3-L4). Prone to rectus femoris strains ('kicking injury') in athletes. AIIS avulsion fractures can occur in adolescent athletes.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_013",
+    "name": "Biceps Femoris",
+    "region": "Lower Limb",
+    "subRegion": "Posterior Compartment of Thigh (Hamstring Group)",
+    "origin": [
+      "Long head: Ischial tuberosity (common hamstring origin)",
+      "Short head: Linea aspera and lateral supracondylar ridge of femur"
+    ],
+    "insertion": [
+      "Lateral side of head of fibula"
+    ],
+    "innervation": "Long head: Tibial division of sciatic nerve (L5, S1, S2); Short head: Common fibular division of sciatic nerve (L5, S1, S2)",
+    "arterialSupply": "Perforating branches of profunda femoris, inferior gluteal artery, superior lateral genicular artery",
+    "primaryActions": [
+      "Flexes leg at knee joint and laterally rotates tibia when knee is flexed",
+      "Extends thigh at hip joint (long head only)"
+    ],
+    "clinicalRelevance": "Hamstring strains are highly common in running or sprinting athletes. Its tendon forms the superolateral boundary of the popliteal fossa, where the common fibular nerve runs close to its medial border.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_014",
+    "name": "Semitendinosus",
+    "region": "Lower Limb",
+    "subRegion": "Posterior Compartment of Thigh (Hamstring Group)",
+    "origin": [
+      "Ischial tuberosity"
+    ],
+    "insertion": [
+      "Superior medial shaft of tibia (as part of Pes Anserinus)"
+    ],
+    "innervation": "Tibial division of sciatic nerve (L5, S1, S2)",
+    "arterialSupply": "Perforating branches of profunda femoris, inferior gluteal artery",
+    "primaryActions": [
+      "Flexes leg at knee joint and medially rotates tibia when knee is flexed",
+      "Extends thigh at hip joint"
+    ],
+    "clinicalRelevance": "The tendon of semitendinosus is frequently harvested for ACL reconstructive surgery. It is a member of the 'Pes Anserinus' group (Sartorius, Gracilis, Semitendinosus), which can be involved in Pes Anserine bursitis.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_015",
+    "name": "Gastrocnemius",
+    "region": "Lower Limb",
+    "subRegion": "Posterior Compartment of Leg (Superficial Group)",
+    "origin": [
+      "Lateral head: Lateral aspect of lateral condyle of femur",
+      "Medial head: Popliteal surface of femur, superior to medial condyle"
+    ],
+    "insertion": [
+      "Posterior surface of calcaneus via the Achilles (calcaneal) tendon"
+    ],
+    "innervation": "Tibial nerve (S1, S2)",
+    "arterialSupply": "Sural arteries (branches of popliteal artery)",
+    "primaryActions": [
+      "Plantarflexion of foot at ankle joint",
+      "Flexion of leg at knee joint"
+    ],
+    "clinicalRelevance": "Rupture of the calcaneal tendon is highly disabling; diagnosed with the Thompson (Simmonds) squeeze test. Rupture of medial head during sudden eccentric extension of knee results in 'Tennis Leg'.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_016",
+    "name": "Soleus",
+    "region": "Lower Limb",
+    "subRegion": "Posterior Compartment of Leg (Superficial Group)",
+    "origin": [
+      "Posterior aspect of head and superior shaft of fibula",
+      "Soleal line and medial border of tibia"
+    ],
+    "insertion": [
+      "Posterior surface of calcaneus via the Achilles (calcaneal) tendon"
+    ],
+    "innervation": "Tibial nerve (S1, S2)",
+    "arterialSupply": "Posterior tibial, peroneal, and popliteal arteries",
+    "primaryActions": [
+      "Plantarflexion of foot at ankle joint (independent of knee position)"
+    ],
+    "clinicalRelevance": "Known as the 'peripheral heart' because its strong contraction during gait pushes venous blood superiorly through deep veins. Important in postural stability during standing.",
+    "examYield": "Medium",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_017",
+    "name": "Tibialis Anterior",
+    "region": "Lower Limb",
+    "subRegion": "Anterior Compartment of Leg",
+    "origin": [
+      "Lateral condyle and superior half of lateral surface of tibia, interosseous membrane"
+    ],
+    "insertion": [
+      "Medial and inferior surfaces of medial cuneiform and base of first metatarsal"
+    ],
+    "innervation": "Deep fibular nerve (L4, L5)",
+    "arterialSupply": "Anterior tibial artery",
+    "primaryActions": [
+      "Dorsiflexion of foot at ankle joint",
+      "Inversion of foot at subtalar joints"
+    ],
+    "clinicalRelevance": "Injury to deep fibular nerve leads to complete loss of dorsiflexion, causing Foot Drop. Overuse of tibialis anterior is a leading cause of anterior tibial stress syndrome, or 'shin splints'.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_018",
+    "name": "Frontalis (part of Occipitofrontalis)",
+    "region": "Head & Neck",
+    "subRegion": "Scalp / Face",
+    "origin": [
+      "Epicranial aponeurosis (galea aponeurotica)"
+    ],
+    "insertion": [
+      "Skin and subcutaneous tissue of eyebrows and forehead"
+    ],
+    "innervation": "Temporal branch of facial nerve (CN VII)",
+    "arterialSupply": "Ophthalmic, superficial temporal, and posterior auricular arteries",
+    "primaryActions": [
+      "Raises eyebrows",
+      "Wrinkles skin of forehead horizontally (expressing surprise or worry)"
+    ],
+    "clinicalRelevance": "Paralyzed in facial nerve lesions (Bell's Palsy). In upper motor neuron (UMN) lesions, the forehead is spared due to bilateral cortical representation, whereas in lower motor neuron (LMN) lesions, the forehead is fully paralyzed on the affected side.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_019",
+    "name": "Orbicularis Oculi",
+    "region": "Head & Neck",
+    "subRegion": "Facial Expression / Orbital Region",
+    "origin": [
+      "Medial palpebral ligament, nasal part of frontal bone, lacrimal bone"
+    ],
+    "insertion": [
+      "Skin around margin of orbit, tarsal plate"
+    ],
+    "innervation": "Temporal and zygomatic branches of facial nerve (CN VII)",
+    "arterialSupply": "Facial, superficial temporal, and ophthalmic arteries",
+    "primaryActions": [
+      "Palpebral part: Closes eyelids gently (blinking)",
+      "Orbital part: Closes eyelids tightly (squinting, protecting eye)"
+    ],
+    "clinicalRelevance": "Weakness prevents complete eye closure (lagophthalmos), leading to corneal drying, ulceration, and ectropion (eversion of lower eyelid), commonly observed in patients with Bell's Palsy.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_020",
+    "name": "Masseter",
+    "region": "Head & Neck",
+    "subRegion": "Mastication Region",
+    "origin": [
+      "Maxillary process of zygomatic bone, lower border of zygomatic arch"
+    ],
+    "insertion": [
+      "Lateral surface of ramus and angle of mandible"
+    ],
+    "innervation": "Masseteric nerve (branch of mandibular division of trigeminal nerve CN V3)",
+    "arterialSupply": "Masseteric artery (branch of maxillary artery)",
+    "primaryActions": [
+      "Elevates mandible (closes jaw forcefully during chewing)",
+      "Assists in protraction of mandible"
+    ],
+    "clinicalRelevance": "The strongest muscle of mastication. Tetanus (lockjaw) specifically targets the masseter, causing painful tonic spasms. Hypertrophy of the masseter is associated with bruxism (teeth grinding) and TMJ dysfunction.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_021",
+    "name": "Sternocleidomastoid",
+    "region": "Head & Neck",
+    "subRegion": "Lateral Cervical Region",
+    "origin": [
+      "Sternal head: Anterior surface of manubrium of sternum",
+      "Clavicular head: Superior surface of medial third of clavicle"
+    ],
+    "insertion": [
+      "Lateral surface of mastoid process of temporal bone, lateral half of superior nuchal line"
+    ],
+    "innervation": "Spinal accessory nerve (CN XI, motor); C2, C3 spinal nerves (pain and proprioception)",
+    "arterialSupply": "Occipital artery, superior thyroid artery",
+    "primaryActions": [
+      "Unilateral: Flexes neck laterally, rotates head to face opposite side",
+      "Bilateral: Flexes neck forward, raises chin"
+    ],
+    "clinicalRelevance": "Spasmodic contraction or shortening of this muscle causes Congenital Torticollis (wryneck), causing the head to tilt toward the affected side and rotation of the face to the opposite side. Landmark separating anterior and posterior triangles of neck.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_022",
+    "name": "Trapezius",
+    "region": "Back & Spine",
+    "subRegion": "Superficial Back Muscles",
+    "origin": [
+      "Medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae",
+      "Spinous processes of C7 to T12 vertebrae"
+    ],
+    "insertion": [
+      "Lateral third of clavicle, acromion process, and spine of scapula"
+    ],
+    "innervation": "Spinal accessory nerve (CN XI, motor); C3, C4 spinal nerves (proprioception)",
+    "arterialSupply": "Transverse cervical artery",
+    "primaryActions": [
+      "Upper fibers: Elevate scapula",
+      "Middle fibers: Retract (adduct) scapula",
+      "Lower fibers: Depress scapula",
+      "Together: Rotate scapula superiorly during abduction of arm"
+    ],
+    "clinicalRelevance": "Tested by shrugging the shoulders against resistance (CN XI test). Weakness causes shoulder drooping and dynamic scapular winging during arm abduction (inability to raise arm above horizontal plane).",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_023",
+    "name": "Latissimus Dorsi",
+    "region": "Back & Spine",
+    "subRegion": "Superficial Back Muscles",
+    "origin": [
+      "Spinous processes of T7 to T12 vertebrae",
+      "Thoracolumbar fascia, iliac crest",
+      "Inferior 3 or 4 ribs"
+    ],
+    "insertion": [
+      "Floor of intertubercular (bicipital) groove of humerus"
+    ],
+    "innervation": "Thoracodorsal nerve (C6, C7, C8)",
+    "arterialSupply": "Thoracodorsal artery",
+    "primaryActions": [
+      "Extends, adducts, and medially rotates humerus at glenohumeral joint (known as the 'climbing' or 'swimming' muscle)",
+      "Depresses scapula"
+    ],
+    "clinicalRelevance": "Surgical flaps of latissimus dorsi are widely used for autologous breast reconstruction. Vital for wheelchair propulsion and using crutches. Injury to the thoracodorsal nerve during axillary node dissections impairs arm extension.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_024",
+    "name": "Erector Spinae",
+    "region": "Back & Spine",
+    "subRegion": "Deep (Intrinsic) Back Muscles",
+    "origin": [
+      "Broad tendon from posterior part of iliac crest, posterior surface of sacrum, sacroiliac ligaments",
+      "Sacral and inferior lumbar spinous processes"
+    ],
+    "insertion": [
+      "Spinalis: Spinous processes of upper thoracic and cervical vertebrae",
+      "Longissimus: Ribs between angles and tubercles, transverse processes of thoracic and cervical vertebrae, mastoid process",
+      "Iliocostalis: Angles of lower ribs, transverse processes of cervical vertebrae"
+    ],
+    "innervation": "Posterior rami of spinal nerves of respective regions",
+    "arterialSupply": "Lateral sacral, lumbar, intercostal, and occipital arteries",
+    "primaryActions": [
+      "Bilateral: Extends vertebral column and head (vital for maintaining erect posture)",
+      "Unilateral: Flexes vertebral column laterally"
+    ],
+    "clinicalRelevance": "The primary postural stabilizer. Repetitive strain or lifting with a flexed spine can cause acute erector spinae spasms, leading to lower back pain. Target of postural retraining and core stabilization exercises in physiotherapy.",
+    "examYield": "Medium",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_025",
+    "name": "Pectoralis Minor",
+    "region": "Thorax",
+    "subRegion": "Anterolateral Wall of Thorax",
+    "origin": [
+      "Anterior surfaces of 3rd, 4th, and 5th ribs near their costal cartilages"
+    ],
+    "insertion": [
+      "Coracoid process of scapula (medial border and superior surface)"
+    ],
+    "innervation": "Medial pectoral nerve (C8, T1)",
+    "arterialSupply": "Pectoral branch of thoracoacromial trunk",
+    "primaryActions": [
+      "Stabilizes scapula by drawing it inferiorly and anteriorly against thoracic wall",
+      "Auxiliary muscle of respiration (elevates ribs when scapula is fixed)"
+    ],
+    "clinicalRelevance": "Can contract pathologically, resulting in Pectoralis Minor Syndrome (characterized by compression of the brachial plexus and axillary vessels under the coracoid process, a type of Thoracic Outlet Syndrome). Key surgical landmark in the axilla.",
+    "examYield": "Medium",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_026",
+    "name": "Serratus Anterior",
+    "region": "Thorax",
+    "subRegion": "Anterolateral Wall of Thorax",
+    "origin": [
+      "External surfaces of lateral parts of 1st to 8th ribs"
+    ],
+    "insertion": [
+      "Anterior (costal) surface of medial border of scapula"
+    ],
+    "innervation": "Long thoracic nerve (of Bell) (C5, C6, C7)",
+    "arterialSupply": "Lateral thoracic artery, thoracodorsal artery",
+    "primaryActions": [
+      "Protracts scapula and holds it firmly against thoracic wall (called the 'boxer's muscle')",
+      "Rotates scapula upward to allow abduction of arm past 90 degrees"
+    ],
+    "clinicalRelevance": "Injury to the long thoracic nerve (e.g., during axillary clearance or chest tube insertion) paralyzes this muscle, causing 'Winging of Scapula'. The medial border of the scapula lifts off the thoracic wall, especially when pushing against a wall.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_027",
+    "name": "Diaphragm",
+    "region": "Thorax",
+    "subRegion": "Thoracic Cavity Boundary",
+    "origin": [
+      "Sternal part: Posterior aspect of xiphoid process",
+      "Costal part: Internal surfaces of lower 6 ribs and costal cartilages",
+      "Lumbar part: L1-L3 vertebral bodies (via medial/lateral arcuate ligaments and right/left crura)"
+    ],
+    "insertion": [
+      "Central tendon of diaphragm"
+    ],
+    "innervation": "Phrenic nerve (C3, C4, C5 - 'keep the diaphragm alive')",
+    "arterialSupply": "Pericardiacophrenic, musculophrenic, and superior/inferior phrenic arteries",
+    "primaryActions": [
+      "The primary muscle of respiration (descends during inspiration, increasing thoracic volume and drawing air in)"
+    ],
+    "clinicalRelevance": "Phrenic nerve injury paralyzes a hemi-diaphragm, presenting as paradoxical breathing. Congenital or acquired defects can lead to diaphragmatic hernias (e.g., Bochdalek hernia), allowing abdominal viscera into the chest.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_028",
+    "name": "Rectus Abdominis",
+    "region": "Abdomen",
+    "subRegion": "Anterior Abdominal Wall",
+    "origin": [
+      "Pubic crest and pubic symphysis"
+    ],
+    "insertion": [
+      "Xiphoid process of sternum and 5th to 7th costal cartilages"
+    ],
+    "innervation": "Thoracoabdominal nerves (anterior rami of T7 to T12 spinal nerves)",
+    "arterialSupply": "Superior and inferior epigastric arteries",
+    "primaryActions": [
+      "Flexes trunk (vertebral column)",
+      "Compresses abdominal viscera (increases intra-abdominal pressure during defecation, micturition, parturition, and forced expiration)"
+    ],
+    "clinicalRelevance": "Separated along the midline by the linea alba, which can separate during pregnancy, a condition called 'diastasis recti'. Highly active in spinal stabilization and posture. Incision site for laparotomies.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT", "Nursing"]
+  },
+  {
+    "id": "m_029",
+    "name": "External Oblique",
+    "region": "Abdomen",
+    "subRegion": "Anterolateral Abdominal Wall",
+    "origin": [
+      "External surfaces of 5th to 12th ribs"
+    ],
+    "insertion": [
+      "Linea alba, pubic tubercle, anterior half of iliac crest"
+    ],
+    "innervation": "Thoracoabdominal nerves (T7-T11) and subcostal nerve (T12)",
+    "arterialSupply": "Deep circumflex iliac and superficial circumflex iliac arteries, lower intercostal arteries",
+    "primaryActions": [
+      "Compresses abdominal viscera and supports trunk",
+      "Bilateral: Flexes trunk forward",
+      "Unilateral: Flexes trunk laterally and rotates trunk to the opposite side"
+    ],
+    "clinicalRelevance": "The lower free border of the external oblique aponeurosis folds under to form the inguinal ligament (Poupart's ligament), which is a key anatomical landmark for the inguinal canal and repair of inguinal hernias.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  },
+  {
+    "id": "m_030",
+    "name": "Sartorius",
+    "region": "Lower Limb",
+    "subRegion": "Anterior Compartment of Thigh",
+    "origin": [
+      "Anterior superior iliac spine (ASIS)"
+    ],
+    "insertion": [
+      "Superior part of medial surface of tibia (as part of Pes Anserinus)"
+    ],
+    "innervation": "Femoral nerve (L2, L3)",
+    "arterialSupply": "Femoral artery, muscular branches",
+    "primaryActions": [
+      "Flexes, abducts, and laterally rotates thigh at hip joint",
+      "Flexes and medially rotates leg at knee joint (enables the cross-legged tailor position)"
+    ],
+    "clinicalRelevance": "The longest muscle in the human body. Forms the lateral boundary of the femoral triangle. Can be used as an autologous muscular flap in pelvic reconstruction.",
+    "examYield": "High",
+    "targetStreams": ["MBBS", "BPT"]
+  }
+]

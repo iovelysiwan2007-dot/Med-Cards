@@ -1,0 +1,6 @@
+{
+  "name": "ClinicalIQ",
+  "description": "Your daily MBBS, BPT, and Nursing medical revision companion. Master high-yield medical flashcards and anatomy in 5 minutes every day. Learn. Recall. Perform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
